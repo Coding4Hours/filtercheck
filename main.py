@@ -152,43 +152,7 @@ def check_url_blocking(url: str) -> dict:
 # Example usage
 if __name__ == "__main__":
     # 1. Define a list of URLs
-    urls = [
-        "extremelyorange.com",
-        "compositgroup.com",
-        "lakeontariounsalted.com",
-        "open-sky.org",
-        "thehitechhouse.com",
-        "asmasoft.net",
-        "estudio7a.com",
-        "inhumangames.com",
-        "gonzalezabogados.cl",
-        "primeflk.ch",
-        "benjaminboos.ch",
-        "kilanda-hult.se",
-        "dazzos.com",
-        "chirto.com.ar",
-        "tablero-anmac.ar",
-        "mcosi.org",
-        "lbry.ru",
-        "factiness.com",
-        "farfleet.com",
-        "binjukarki.com.np",
-        "datemyfamily.tv",
-        "markjlyon.com",
-        "mineward.net",
-        "freude-macherei.ch",
-        "echofx.com",
-        "feketedominik.hu",
-        "jdrgaming.com",
-        "flightbooker.co.za",
-        "ulfschoeneberg.de",
-        "fizzreference.com",
-        "jc.ar",
-        "moqate.com",
-        "thebaldgeek.net",
-        "webbup.com",
-        "florentinatilea.ro",
-    ]
+    urls = ["laramieriverlodge.com"]
 
     all_results = []
 
